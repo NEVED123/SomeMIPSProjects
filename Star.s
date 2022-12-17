@@ -1,4 +1,13 @@
-#Homework 1 Assignment - Deven Mallamo 
+#Deven Mallamo 
+
+#Creates a star pattern given a character and a number
+#Example:
+# Enter a symbol: $
+# Enter a number: 4
+#    $
+#   $ $
+#  $ $ $
+# $ $ $ $
 
 .data
 
