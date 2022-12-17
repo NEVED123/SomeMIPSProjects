@@ -1,3 +1,13 @@
+#Deven Mallamo
+
+#Given a string and a shorter string, the program outputs the number
+#of occurances of the smaller string are found in the larger string.
+#Example:
+# Enter a string: ababababa
+# Enter the substring: aba
+# # of substring occurrence(s) found: 4
+
+
 .data
 
 #Static arrays used to store the two string inputs
